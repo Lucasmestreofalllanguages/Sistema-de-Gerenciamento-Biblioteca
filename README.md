@@ -38,4 +38,18 @@
 - Loan 
   - Representa um Empréstimo
 ``` 
-# Como Executar
+## 🚀 Como executar o projeto
+
+### 1. Pré-requisitos
+- Java 21+ instalado
+- IntelliJ IDEA (ou outra IDE Java)
+
+### 2. Executando no IntelliJ
+1. Abra o projeto no IntelliJ IDEA
+2. Aguarde o Maven/Gradle (se tiver) carregar o projeto
+3. Vá até a classe `Main`
+4. Clique em **Run (▶)** ou execute o método `main`
+
+### 3. Usando o sistema
+- O programa roda no terminal
+- Siga o menu interativo para usar o sistema de biblioteca
