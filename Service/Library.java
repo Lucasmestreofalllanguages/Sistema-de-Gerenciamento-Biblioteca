@@ -1,4 +1,8 @@
-package ex.Project8;
+package br.lucas.Service;
+
+import br.lucas.Model.Book;
+import br.lucas.Model.Loan;
+import br.lucas.Model.Member;
 
 import java.util.ArrayList;
 

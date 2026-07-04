@@ -1,4 +1,4 @@
-package ex.Project8;
+package br.lucas.Model;
 
 public class Book {
     private String title;

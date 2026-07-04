@@ -1,8 +1,11 @@
-package ex.Project8;
+package br.lucas;
 
+import br.lucas.Model.Loan;
 
 import java.util.Scanner;
-
+import br.lucas.Model.Book;
+import br.lucas.Model.Member;
+import br.lucas.Service.Library;
 /*
 Programa nos estágios iniciais. (6/9) Cases completos. Devidos Consertos
 necessários indicados abaixo no programa!

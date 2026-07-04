@@ -1,4 +1,4 @@
-package ex.Project8;
+package br.lucas.Model;
 
 import java.time.LocalDate;
 
